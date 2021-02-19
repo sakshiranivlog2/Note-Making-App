@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EasyNotes</string>
+    <string name="todo">TODO</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="like_easynote_please_take_a_moment_to_rate_it_thanks_for_your_support">Like EasyNote? Please take a moment to rate it. Thanks for your support!</string>
+    <string name="oo">Like EasyNote? Please take a moment to rate it. Thanks for your support!</string>
+    <string name="notes_app">NOTES APP</string>
+    <string name="easy_notesmm">Easy Notes</string>
+</resources>
